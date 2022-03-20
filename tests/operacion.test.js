@@ -63,6 +63,6 @@ test('Dividir a / 2 es igual a Debe introducir valores válidos', () =>{
 });
 
 //PRUEBA QUE DEVUELVE UN ERROR
-test('Sumar 1 + 1 es igual a 3', () =>{
-    expect(operar(1,"+",1)).toBe(3);
-});
+//test('Sumar 1 + 1 es igual a 3', () =>{
+    //expect(operar(1,"+",1)).toBe(3);
+//});
